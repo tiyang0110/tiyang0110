@@ -5,7 +5,7 @@
   <div>
     <h3>✏️ Skill</h3>
     * Javascript & Typescript<br>
-    * React, Next.JS<br>
+    * React<br>
     * CSS/SCSS/SASS, Tailwind CSS, Styled-Components<br>
     * JQuery
   </div>
